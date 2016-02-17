@@ -1,0 +1,38 @@
+.nav {
+background-color:#808080;
+padding:20;
+}
+
+.nav > li {
+    display: inline-block;
+}
+
+a:link,a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+}
+
+a:hover,a:active {
+    background-color: red;
+}
+
+header{
+    color:blue;
+	margin:0;
+	padding:50;
+	font-family:"Times New Roman",Times,sans-serif;
+}
+
+body{
+     background-image:url("desert.jpg");
+	 background-repeat: repeat;
+}
+
+.nav-tab {
+      color:red;
+}
+
+a:link{

@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
-<header>Planets Of Universre</header>
+<header>
+<h1><center>Planets Of Universre</center></h1>
+{% include nav.html navclass="nav-tab" %}
+<link href="{{site.baseurl}}/CSS/nav.css" rel="stylesheet"></link>
+</header>
 
 <h1>Planets of Universe</h1>
 
